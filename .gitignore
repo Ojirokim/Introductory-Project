@@ -1,4 +1,8 @@
+# Python
 venv/
 .venv/
 __pycache__/
 .ipynb_checkpoints/
+
+# PyCharm / IntelliJ
+.idea/
